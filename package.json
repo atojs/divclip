@@ -1,0 +1,34 @@
+{
+  "name": "divclip",
+  "version": "1.0.0",
+  "description": "Extricate element from DOM by selector",
+  "main": "divclip.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atojs/divclip.git"
+  },
+  "keywords": [
+    "divclip",
+    "htmlclipper",
+    "scrap",
+    "standalone",
+    "dom",
+    "css",
+    "div"
+  ],
+  "author": "Jake Luck",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/atojs/divclip/issues"
+  },
+  "homepage": "https://github.com/atojs/divclip",
+  "dependencies": {
+    "sha256": "^0.1.1"
+  }
+}
