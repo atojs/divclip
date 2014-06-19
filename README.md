@@ -23,5 +23,5 @@ Tested with NodeJS 0.10.28 and Firefox30+
 # references
 * [htmlclipper](https://github.com/florentin/htmlclipper) by Florentin Sardan
 * [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) by Konrad Dzwinel
-* (http://stackoverflow.com/questions/4911338/tools-to-selectively-copy-htmlcssjs-from-existing-sites)
+* http://stackoverflow.com/questions/4911338/tools-to-selectively-copy-htmlcssjs-from-existing-sites
 
