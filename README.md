@@ -11,7 +11,7 @@ derived and augmented from htmlclipper by Florentin Sardan
 - wrapped for browserify/require()
 
 
-https://www.npmjs.org/package/divclip
+
 
 # example
 ``` js
@@ -20,6 +20,7 @@ var html    = divclip.bySel(".article-body");
 console.log(html);
 ```
 
+https://www.npmjs.org/package/divclip  
 Tested with NodeJS 0.10.28 and Firefox30+
 
 
